@@ -1,0 +1,87 @@
+HU001 -Yo como Administrador Quiero Crear credenciales de acceso Para Identificación de los usuarios 
+CA-01 | Se debe tener un campo para ingresar los usuarios
+CA-02 | Se debe incluir un código de registro de credenciales
+CA-03 | Se debe visualizar credenciales de acceso
+
+HU002 -Yo como Administrador Quiero Asignar permisos Para Entregar privilegios a algunos usuarios
+CA-01 | Se debe validar permisos de ingreso a la aplicaicon
+CA-02 | Se debe validar si el usuario cuenta con un boton de privilegio
+CA-03 | Se debe validar si el usuario puede darle click al boton y generar privilegios
+
+HU003 -Yo como Administrador Quiero Tener un modulo de inventario Para Gestionar los alimentos, medicinas y equipos
+CA-01 | La aplicacion tiene un catálogo de inventarios de alimentos, medicionas y equipos
+CA-02 | La aplicacion muestra los inventarios existentes 
+CA-03 | La aplicacion muestra una descripcion breve de los inventarios
+CA-04 | La aplicaicon permite tener una barra de busqueda
+CA-05 | La aplicacion permite tener un sistema de filtros
+CA-06 | La aplicacion permite tener una pequeña imagen de cada unidad de inventario
+
+
+HU004 -Yo como Administrador Quiero Tener un modulo de animales Para Gestionar la información de cada animal 
+CA-01 | La aplicacion tiene un catálogo de inventarios de animales del regugio
+CA-02 | La aplicacion muestra la cantidad de animales discriminados por raza y especie
+CA-03 | La aplicacion muestra una descripcion breve de cada animal (Comportamient, habitos, sexo, edad, entre otros)
+CA-04 | La aplicaicon permite tener una barra de busqueda
+CA-05 | La aplicacion permite tener un sistema de filtros
+CA-06 | La aplicacion permite tener una pequeña imagen de cada animal
+
+HU005 -Yo como Administrador Quiero Tener un modulo de flujo de caja Para Llevar la contabilidad
+CA-01 | La aplicacion tiene un listado de detalles de Flujo de caja
+CA-02 | La aplicacion muestra el flujo de caja por año, mes, dia
+CA-03 | La aplicacion muestra totalidad de Ingresos y Egresos
+
+HU006 -Yo como Usuario Quiero Iniciar sesión Para Ingresar a la aplicación
+CA-01 | Se debe validar boton de ingreso a la aplicaicon
+CA-02 | Se debe validar si el usuario cuenta con un boton de inicio de sesión
+CA-03 | Se debe validar si el usuario puede acceder a las funciones del programa
+
+HU007 -Yo como Usuario Quiero Recuperar contraseña Para Reestablecer las credenciales 
+CA-01 | Se debe validar boton de recuperar contraseña
+CA-02 | Se debe validar si el usuario cuenta con correo para restablecer credenciales
+CA-03 | Se debe validar si el usuario puede recuperar contraseña
+
+HU008 -Yo como Usuario Quiero Actualizar informacion Para Renovar los datos del usuario
+CA-01 | Se debe validar boton de actualizar informacion
+CA-02 | Se debe validar si el usuario esta activo para realizar el proceso
+CA-03 | Se debe validar que el usuario actualice su informacion para renovar datos
+
+HU009 -Yo como Usuario Quiero Consultar y modificar la informacion del adoptante de un animal Para Hacerle seguimiento
+CA-01 | Se debe validar si puede consultar y modificar informacion del adoptante
+CA-02 | Se debe validar si hay registro actualizado del adoptante 
+CA-03 | Se debe validar que no contenga faltas de ortografía.
+
+HU010 -Yo como Usuario Quiero Consultar y modificar la informacion de un animal Para Conocer los detalles del individuo 
+CA-01 | Se debe validar si puede consultar y modificar informacion del animal
+CA-02 | Se debe validar si hay registro actualizado del animal 
+CA-03 | Se debe validar que no contenga faltas de ortografía.
+
+HU011 -Yo como Usuario Quiero Consultar y modificar la cantidad actual de animales Para Conocer cuantos animales estan en el albergue
+CA-01 | Se debe validar si puede consultar y modificar informacion de las cantidades actuales de animales en el albergue
+CA-02 | Se debe validar fechas de control de los animales en ese momento 
+CA-03 | Se debe validar que no contenga faltas de ortografía.
+
+HU012 -Yo como Usuario Quiero Consultar y modificar la descripcion de un producto Para Conocer su informacion tecnica
+CA-01 | Se debe validar si puede consultar y modificar descripcion de un prodcuto
+CA-02 | Se debe validar si hay registro actualizado de las descripciones de producto 
+CA-03 | Se debe validar que no contenga faltas de ortografía.
+
+HU013 -Yo como Usuario Quiero Consultar y modificar cantidad de un producto Para Conocer la capacidad acutal del inventario
+CA-01 | La aplicacion tiene un catálogo de inventarios
+CA-02 | La aplicacion tiene una barra de navegación
+CA-03 | La aplicacion muestra información de cada inventario incluyendo una imagen
+CA-04 | La aplicacion tiene un apartado de contador existente de inventario
+
+HU014 -Yo como Usuario Quiero Tener una alerta Para Notificar cuando se vaya a agotar un producto
+CA-01 | Se debe validar si hay alerta de aviso de agotamiento producto
+CA-02 | Se debe validar si hay programacion de tiempo/fecha de la alerta
+CA-03 | Se debe validar que no contenga faltas de ortografía.
+
+HU015 -Yo como Usuario Quiero Tener una alerta Para Notificar cuando se vaya a vencer un producto
+CA-01 | Se debe validar si hay alerta de aviso de vencimiento producto
+CA-02 | Se debe validar si hay programacion de tiempo/fecha de la alerta
+CA-03 | Se debe validar que no contenga faltas de ortografía.
+
+HU016 -Yo como Usuario Quiero Consultar y modificar informacion del flujo de caja Para Gestionar la economia del albergue
+CA-01 | Se debe validar si puede consultar y modificar el detalles de Flujo de caja
+CA-02 | Se debe validar si puede muestra el flujo de caja por año, mes, dia
+CA-03 | Se debe validar si puede mostrar totalidad de Ingresos y Egresos
